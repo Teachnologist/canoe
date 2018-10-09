@@ -1,3 +1,5 @@
+Completed by Jason Triche for Canoe Software on October 8, 2018
+
 Q1. Given a SQL database with the following table full of data
 CREATE TABLE countries (
 code CHAR(2) NOT NULL,
